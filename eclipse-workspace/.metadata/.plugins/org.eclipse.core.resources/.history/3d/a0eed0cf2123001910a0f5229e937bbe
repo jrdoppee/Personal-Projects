@@ -1,0 +1,10 @@
+package random;
+
+public class Diff 
+{
+	public void main(String[] args)
+	{
+		
+	}
+
+}
